@@ -96,7 +96,7 @@ Linux Users:
 curl -sL https://github.com/gcharters/kabanero-dev-getting-started/releases/download/0.0.1/workshop-setup.sh | bash
 ```
 
-Windows Users on a Cygwin shell:
+MacOS and Windows Users on a Cygwin shell:
 ```
 curl -sL https://github.com/gcharters/kabanero-dev-getting-started/releases/download/0.0.2/workshop-setup.sh | bash
 ```
